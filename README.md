@@ -1,6 +1,6 @@
 # restaurant-server 
 <br>
-模仿麦当劳app的点餐系统，并且多出两个管理系统，管理员系统和企业级管理系统。
+模仿麦当劳app的点餐系统（images、icon可自行修改），并且多出两个管理系统，管理员系统和企业级管理系统。
 
 技术栈：Vue3、Element Puls、NodeJS、Echarts、SpringBoot、Mysql<br>
 
